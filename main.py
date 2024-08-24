@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # import asyncio
 # import aiohttp
 # import yarl
